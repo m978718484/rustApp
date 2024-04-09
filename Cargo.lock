@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "cross-compile"
+name = "rust-cross-compile-example"
 version = "0.1.0"
